@@ -4,3 +4,4 @@ project("Qtc++_Hello")
 
 #executable
 add_subdirectory(01_QtSetup)
+add_subdirectory(02_QLabel)
