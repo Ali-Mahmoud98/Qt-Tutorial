@@ -39,8 +39,8 @@ private:
     // QLineEdit uName_lineEdit;
     // QLineEdit pass_lineEdit;
 
-    // QPushButton login_btn;
-    // QPushButton cancel_btn;
+    // QPushButton login_btn{"Login"};
+    // QPushButton cancel_btn{"Cancel"};
 
     // Use unique_ptr to automatically manage memory
     // std::unique_ptr<QVBoxLayout> main_layout;
